@@ -3,8 +3,7 @@
 
 I made a software in which I used the MVC design pattern and I downloaded WAMP which contains phpMyAdmin to use the MySQL server.
 I used the Eclipse IDE so I had to download the jdbc driver from from: http://dev.mysql.com/downloads/connector/j/ and here is a
-tutorial for downloading the connector j and to add the mysql database driver to classpath: https://www.youtube.com/watch?v=2i4t
-SL1VsU&list=PLEAQNNR8IlB4R7NfqBY1frapYo97L6fOQ&index=2
+tutorial for downloading the connector j and to add the mysql database driver to classpath: https://www.youtube.com/watch?v=2i4tSL1VsU&list=PLEAQNNR8IlB4R7NfqBY1frapYo97L6fOQ&index=2
 
 Here is a tutorial(that i found useful) on the MVC design pattern: https://www.youtube.com/watch?v=dTVVa2gfht8&t=1s
 
